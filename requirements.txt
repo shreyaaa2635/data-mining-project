@@ -1,0 +1,10 @@
+streamlit==1.35.0
+pandas==2.2.2
+numpy==1.26.4
+plotly==5.22.0
+pydeck==0.9.1
+requests==2.32.3
+scipy==1.13.1
+matplotlib==3.9.0
+scikit-learn==1.5.0
+tqdm==4.66.4
